@@ -25,8 +25,8 @@ namespace BooleanLogic
             string yourSpeed = Console.ReadLine();
             int personsSpeed = Convert.ToInt32(yourSpeed);
 
-            //makes sure person is 15 or older, has no duis, and has 3 or less speeding tickets
-            bool isApproved = (personsAge >= 15 && personsDui == false && personsSpeed <= 3);
+            //makes sure person is older than 15, has no duis, and has 3 or less speeding tickets
+            bool isApproved = (personsAge > 15 && personsDui == false && personsSpeed <= 3);
             // prints qualified or not
             Console.WriteLine("Qualified?");
             Console.WriteLine(isApproved);
