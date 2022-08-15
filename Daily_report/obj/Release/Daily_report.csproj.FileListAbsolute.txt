@@ -1,0 +1,6 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\bin\Release\Daily_report.exe.config
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\bin\Release\Daily_report.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\bin\Release\Daily_report.pdb
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\obj\Release\Daily_report.csproj.CoreCompileInputs.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\obj\Release\Daily_report.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Daily_report\obj\Release\Daily_report.pdb
