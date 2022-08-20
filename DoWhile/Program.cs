@@ -55,6 +55,39 @@ namespace DoWhile
             }
             while (!favColor);
 
+            Console.WriteLine("Guess a number between 1-10:");
+            int number = Convert.ToInt32(Console.ReadLine());
+            bool guessedNumber = number == 3;
+
+            while(!guessedNumber)
+            {
+                switch (number)
+                {
+                    case 1:
+                        Console.WriteLine("1 is wrong sorry try again.");
+                        Console.WriteLine("Guess a number between 1-10:");
+                        int number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 5:
+                        Console.WriteLine("5 is wrong sorry try again.");
+                        Console.WriteLine("Guess a number between 1-10:");
+                        int number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                    case 4:
+                        Console.WriteLine("3 is correct!");
+                        guessedNumber = true;
+                        break;
+                    default:
+                        Console.WriteLine("Nope. Try again.");
+                        Console.WriteLine("Guess a number between 1-10:");
+                        int number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            }
+
+
+
+
             Console.Read();
         }
     }
