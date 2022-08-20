@@ -28,7 +28,7 @@ namespace PackageExpress
                 return;
             }
             // otherwise continues program asking for diminsions
-            else if (weightofPackage < notToBig)
+            else if (weightofPackage <= notToBig)
             {
                 Console.WriteLine("What is the package width?");
                 string packageWidth = Console.ReadLine();
@@ -55,7 +55,7 @@ namespace PackageExpress
                     return;
                 }
                 // otherwise adds diminsions together and divides by 100 showing quotes
-                else if (widthOfPackage + heightOfPackage + lengthOfPackage < dimensions)
+                else if (widthOfPackage + heightOfPackage + lengthOfPackage <= dimensions)
                 {
                     decimal quote = widthOfPackage * heightOfPackage * lengthOfPackage / 100;
                     Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ". Thank you.");
