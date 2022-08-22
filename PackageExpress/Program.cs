@@ -57,7 +57,7 @@ namespace PackageExpress
                 // otherwise adds diminsions together and divides by 100 showing quotes
                 else if (widthOfPackage + heightOfPackage + lengthOfPackage <= dimensions)
                 {
-                    decimal quote = widthOfPackage * heightOfPackage * lengthOfPackage / 100;
+                    decimal quote = lengthOfPackage *widthOfPackage * heightOfPackage  * weightofPackage / 100;
                     Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ". Thank you.");
                 }
             }
