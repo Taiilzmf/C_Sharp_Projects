@@ -1,0 +1,7 @@
+C:\Users\shael\source\repos\Trycatch\bin\Debug\Trycatch.exe.config
+C:\Users\shael\source\repos\Trycatch\bin\Debug\Trycatch.exe
+C:\Users\shael\source\repos\Trycatch\bin\Debug\Trycatch.pdb
+C:\Users\shael\source\repos\Trycatch\obj\Debug\Trycatch.csproj.AssemblyReference.cache
+C:\Users\shael\source\repos\Trycatch\obj\Debug\Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\shael\source\repos\Trycatch\obj\Debug\Trycatch.exe
+C:\Users\shael\source\repos\Trycatch\obj\Debug\Trycatch.pdb
