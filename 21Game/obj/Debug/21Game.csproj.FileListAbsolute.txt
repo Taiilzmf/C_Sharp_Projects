@@ -1,0 +1,7 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\bin\Debug\21Game.exe.config
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\bin\Debug\21Game.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\bin\Debug\21Game.pdb
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\obj\Debug\21Game.csproj.AssemblyReference.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\obj\Debug\21Game.csproj.CoreCompileInputs.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\obj\Debug\21Game.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\21Game\obj\Debug\21Game.pdb
