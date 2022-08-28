@@ -11,7 +11,8 @@ namespace _21Game
         static void Main(string[] args)
         {
             Deck deck = new Deck();
-            deck = Shuffle(deck);
+            //deck = Shuffle(deck);
+            deck = Shuffle(deck, 3);
 
             foreach (Card card in deck.Cards)
             {
@@ -34,7 +35,7 @@ namespace _21Game
             Console.ReadLine();
         }
 
-        public static Deck Shuffle(Deck deck)
+        public static Deck Shuffle(Deck deck, int times = 1)
         {
             List<Card> TempList = new List<Card>();
             Random random = new Random();
@@ -48,6 +49,15 @@ namespace _21Game
             deck.Cards = TempList;
             return deck;
 
+        }
+
+        public static Deck Shuffle(Deck deck, int times)
+        {
+            for (int i = 0; i < times; i++)
+            {
+                deck = Shuffle(deck);
+            }
+            return deck;
         }
     }
 }
