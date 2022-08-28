@@ -15,20 +15,34 @@ namespace MethodAssignment
 
             //asks user for first number
             Console.WriteLine("Input a number:");
-            int l = Convert.ToInt32(Console.ReadLine());
+            int i = Convert.ToInt32(Console.ReadLine());
 
-            //Asks user for second number and creates var m
-            int m;
-            Console.WriteLine("Input a second number: (Optional)");
-            //int m = Convert.ToInt32(Console.ReadLine());
+            //Asks user if they would like to insert a second number
+            Console.WriteLine("If you'd like to put in a second number type True or False:");
+            bool answer = Convert.ToBoolean(Console.ReadLine());
 
-            //creates variable total to output
-            int total;
+            if (answer == true)
+            {
+                Console.WriteLine("Awesome! Write your next number:");
+                int j = Convert.ToInt32(Console.ReadLine());
+                int k = number.Add(i, j);
+                Console.WriteLine(k);
+                Console.ReadLine();
+            }
+
+            else
+            {
+                int j = 10;
+                int k = number.Add(i, j);
+                Console.WriteLine(k);
+                Console.ReadLine();
+
+            }
+
             
-            if (int.TryParse(Console.ReadLine(), out m))
-                total = number.Add(m);
+            
 
-            Console.WriteLine(number.Add(l, m));
+
             Console.ReadLine();
 
 
