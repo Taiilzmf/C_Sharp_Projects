@@ -10,7 +10,7 @@ namespace MethodAssignment
     public class Numbers
     {
         //creates method for 2 integers to be added 1 being option (j)
-        public int Add(int i, [Optional] int j)
+        public int Add(int i, int j= 20)
         {
             int k = i + j;
             return k;

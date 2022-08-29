@@ -18,13 +18,12 @@ namespace MethodAssignment
             int i = Convert.ToInt32(Console.ReadLine());
 
             //Asks user if they would like to insert a second number
-            Console.WriteLine("If you'd like to put in a second number type True or False:");
-            bool answer = Convert.ToBoolean(Console.ReadLine());
+            Console.WriteLine("If you'd like to put in a second number type your number otherwise hit enter:");
+            string answer = Console.ReadLine();
 
-            if (answer == true)
+            if (answer != "")
             {
-                Console.WriteLine("Awesome! Write your next number:");
-                int j = Convert.ToInt32(Console.ReadLine());
+                int j = Convert.ToInt32(answer);
                 int k = number.Add(i, j);
                 Console.WriteLine(k);
                 Console.ReadLine();
@@ -32,8 +31,7 @@ namespace MethodAssignment
 
             else
             {
-                int j = 10;
-                int k = number.Add(i, j);
+                int k = number.Add(i);
                 Console.WriteLine(k);
                 Console.ReadLine();
 
