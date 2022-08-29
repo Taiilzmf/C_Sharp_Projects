@@ -19,7 +19,7 @@ namespace MethodClass
 
             //Passes in 2 numbers to method Add and then calls by name
             Numbers.Add(7, 22);
-            Numbers.Add(i, j);
+            Numbers.Add(i:7, j:22);
         }
     }
 }
