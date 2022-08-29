@@ -1,0 +1,7 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\bin\Debug\MethodClass.exe.config
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\bin\Debug\MethodClass.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\bin\Debug\MethodClass.pdb
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\obj\Debug\MethodClass.csproj.AssemblyReference.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\obj\Debug\MethodClass.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\MethodClass\obj\Debug\MethodClass.pdb
