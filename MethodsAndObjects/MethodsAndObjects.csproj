@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B0CCE3C5-CD3C-470C-9009-E8DEC06D5DFD}</ProjectGuid>
+    <ProjectGuid>{51B8CB7C-6494-46F7-ACE0-1FB795A866D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClassSubmission</RootNamespace>
-    <AssemblyName>ClassSubmission</AssemblyName>
+    <RootNamespace>MethodsAndObjects</RootNamespace>
+    <AssemblyName>MethodsAndObjects</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Game.cs" />
-    <Compile Include="Numbers.cs" />
+    <Compile Include="Employees.cs" />
+    <Compile Include="Persons.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
