@@ -25,6 +25,10 @@ namespace ClassSubmission
             int myFavNum = Numbers.Divide();
             Console.WriteLine(myFavNum);
 
+            //Uses Add class for method with output parameters and uses static class
+            int m = 15;
+            Numbers.Add(out m);
+
             Console.ReadLine();
         }
     }

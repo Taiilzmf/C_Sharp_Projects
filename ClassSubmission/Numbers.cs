@@ -22,5 +22,17 @@ namespace ClassSubmission
             int k = 25 / 5;
             return k;
         }
+
+        int m= 5;
+
+
+
+        public static void Add(out int m)
+        {
+            m = 12;
+            int n = m + 2;
+            Console.WriteLine("Hey over here!" + n);
+            Console.ReadLine();
+        }
     }
 }
