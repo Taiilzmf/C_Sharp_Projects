@@ -1,0 +1,7 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\bin\Debug\DateTimeSub.exe.config
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\bin\Debug\DateTimeSub.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\bin\Debug\DateTimeSub.pdb
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\obj\Debug\DateTimeSub.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\DateTime\obj\Debug\DateTimeSub.pdb
