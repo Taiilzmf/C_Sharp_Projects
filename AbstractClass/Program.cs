@@ -14,9 +14,12 @@ namespace AbstractClass
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
-
+            employee.Quit(employee);
             //calls Satname
             employee.SayName();
+
+          
+
             Console.ReadLine();
         }
     }
