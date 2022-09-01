@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<html>
+<body>
+    <div>
+    <h2>Hey thanks for checking us out!</h2>
+    </div>
+    @{
+        var serve = "You are currently viewing the server at: \n";
+        var serverTime = DateTime.Now;
+        var serveMessage = serve  + serverTime;
+    }
+    <p>@serveMessage</p>
+
+</body>
+</html>

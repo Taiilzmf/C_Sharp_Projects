@@ -1,0 +1,7 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\Challenge.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\Challenge.dll
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\Challenge.deps.json
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\Challenge.runtimeconfig.json
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\Challenge\obj\Release\net6.0\PubTmp\Out\Challenge.pdb

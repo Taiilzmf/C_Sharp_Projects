@@ -1,0 +1,12 @@
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\FinalChallange.exe.config
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\FinalChallange.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\FinalChallange.pdb
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\EntityFramework.dll
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\EntityFramework.xml
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\obj\Debug\FinalChallange.csproj.AssemblyReference.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\obj\Debug\FinalChallange.csproj.CoreCompileInputs.cache
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\obj\Debug\FinalChallange.csproj.CopyComplete
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\obj\Debug\FinalChallange.exe
+C:\Users\shael\OneDrive\Documents\GitHub\C_Sharp_Projects\FinalChallange\obj\Debug\FinalChallange.pdb
