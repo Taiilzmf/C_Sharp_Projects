@@ -1,5 +1,25 @@
-# C_Sharp_Projects
- Basic c sharp projects
-This repository is for basic C# projects created while at The Tech Academy.
 
-Some of the projects we have done are: a car insurance sign up website with automatic quote calculations. An online card game known as BlackJack. Also a newsletter sign up sheet.
+# The Tech Academy C# Projects
+
+This repository holds all of my C# and .Net Framework assignments. 
+We learned how to create the game of BlackJack showcasing abstraction, polymorphism,
+and inheritance. We also created a website to allow users to sign up for car insurance 
+and automatical price out a quote. Another assignment was creating a newsletter
+that utilizes Entity Framework 6, and creates a sign up that auto adds members to our
+database.
+
+
+
+## Details
+
+Here are some of our notable projects:
+
+[Car Insurance](https://github.com/Taiilzmf/C_Sharp_Projects/tree/main/CarInsurance)
+
+[Newsletter](https://github.com/Taiilzmf/C_Sharp_Projects/tree/main/NewsletterAppMVC)
+
+
+## Author
+
+- [@Taiilzmf](https://www.github.com/taiilzmf)
+
