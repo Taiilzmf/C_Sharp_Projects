@@ -25,4 +25,4 @@ Here are some of our notable projects:
 
 ## Screenshots
 
-![App Screenshot](https://gyazo.com/0fc49ec5ecf7b5bef6da9ed7cfdfc4c1)
+![Newsletter Screenshot](https://raw.githubusercontent.com/Taiilzmf/C_Sharp_Projects/main/Images/newsletter.jpg)
