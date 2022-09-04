@@ -26,3 +26,6 @@ Here are some of our notable projects:
 ## Screenshots
 
 ![Newsletter Screenshot](https://raw.githubusercontent.com/Taiilzmf/C_Sharp_Projects/main/Images/newsletter.jpg)
+
+
+![Car Insurance Screenshot](https://raw.githubusercontent.com/Taiilzmf/C_Sharp_Projects/main/Images/carinsurance.jpg)
